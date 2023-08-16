@@ -11,6 +11,14 @@
         <module>blog-redis-starter</module>
         <module>blog-async-starter</module>
         <module>blog-datasource-starter</module>
+        <module>blog-rabbitmq-starter</module>
+        <module>blog-core</module>
+        <module>blog-mybatis-starter</module>
+        <module>blog-elasticsearch-starter</module>
+        <module>blog-swagger-starter</module>
+        <module>blog-common-starter</module>
+        <module>blog-nacos-starter</module>
+        <module>blog-feign-starter</module>
     </modules>
 
     <modelVersion>4.0.0</modelVersion>

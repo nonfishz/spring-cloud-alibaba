@@ -26,7 +26,6 @@
         <dependency>
             <groupId>com.mugu.blog</groupId>
             <artifactId>blog-core</artifactId>
-            <version>1.0-SNAPSHOT</version>
         </dependency>
 
     </dependencies>

@@ -225,6 +225,24 @@
                 <version>4.5.6</version>
             </dependency>
 
+            <dependency>
+                <groupId>com.mugu.blog</groupId>
+                <artifactId>blog-datasource-starter</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.mugu.blog</groupId>
+                <artifactId>blog-core</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.mugu.blog</groupId>
+                <artifactId>blog-gray-starter</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+
         </dependencies>
 
     </dependencyManagement>
